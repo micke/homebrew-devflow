@@ -7,7 +7,7 @@ class Devflow < Formula
   bottle :unneeded
 
   def install
-    bin.install "delta"
+    bin.install "devflow"
   end
 
   test do
