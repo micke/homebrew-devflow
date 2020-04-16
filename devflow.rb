@@ -1,8 +1,8 @@
 class Devflow < Formula
   desc "Utility to create branches from Targetprocess stories"
   homepage "https://github.com/micke/devflow"
-  url "https://github.com/micke/devflow/releases/download/v0.0.9/mac.tar.gz"
-  sha256 "c8a9ee808abc278728d720222428f422a311276dd460741c798cccbcb62d72e6"
+  url "https://github.com/micke/devflow/releases/download/v1.0.0/mac.tar.gz"
+  sha256 "2017300933f6f6a036da780bfbebbdc71e70922f9ea0c0294243bca407fe2494"
 
   bottle :unneeded
 
